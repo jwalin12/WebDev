@@ -1,0 +1,33 @@
+*{
+  font-family: Helvetica
+}
+
+h1{
+  background-image: url("/Users/jwalinjoshi/Desktop/WebDev/Resources/pattern.jpeg");
+  font-size:100px;
+  font-weight: bold;
+  color:khaki;
+  center:horizontal;
+  width:100%;
+}
+.section{
+
+  font-size:32px;
+  font-weight: bold;
+  color:white;
+
+}
+.greenbackground{
+  background-color: mediumspringgreen;
+}
+
+.coralbackground{
+  background-color: lightcoral;
+}
+.bluebackground{
+  background-color: skyblue;
+}
+.price{
+  font-weight: bold;
+  color:blue;
+}
